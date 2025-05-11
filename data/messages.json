@@ -11,6 +11,42 @@
       "message": "kaise ho aap 🔥",
       "timestamp": 1746421748957,
       "type": "text"
+    },
+    {
+      "sender": "harsh",
+      "message": "<img src=\"/assets/test_img_1.jpeg\" alt=\"AdobeStock_1182576689_Preview.jpeg\" style=\"max-width: 200px; max-height: 200px;\"><br><a href=\"/assets/test_img_1.jpeg\" download=\"img_1.jpeg\">download (173 KB)</a> ",
+      "timestamp": 1746939061702,
+      "type": "text"
+    },
+    {
+      "sender": "harsh",
+      "message": "<img src=\"/assets/test_img_2.jpeg\" alt=\"bg22.jpeg\" style=\"max-width: 200px; max-height: 200px;\"><br><a href=\"/assets/test_img_2.jpeg\" download=\"bg22.jpeg\">download (143.2 KB)</a> ",
+      "timestamp": 1746939077282,
+      "type": "text"
+    },
+    {
+      "sender": "harsh",
+      "message": "\n            <div class=\"video-card\">\n                <video controls>\n                    <source src=\"/assets/test_video_1.webm\" type=\"video/mp4\">\n                </video>\n                <div class=\"video-info\">\n                    <div class=\"video-title\">song_1.mp4</div>\n                    <br>\n                    <a href=\"/assets/test_video_1.webm\" download=\"rgb.mp4\" class=\"video-link\">Download (20.9 MB)</a>\n                </div>\n            </div>",
+      "timestamp": 1746939099527,
+      "type": "text"
+    },
+    {
+      "sender": "harsh",
+      "message": "\n            <div class=\"video-card\">\n                <video controls>\n                    <source src=\"/assets/test_video_2.webm\" type=\"video/mp4\">\n                </video>\n                <div class=\"video-info\">\n                    <div class=\"video-title\">song_2.mp4</div>\n                    <br>\n                    <a href=\"/assets/test_video_2.webm\" download=\"rgb.mp4\" class=\"video-link\">Download (22.2 MB)</a>\n                </div>\n            </div>",
+      "timestamp": 1746939099528,
+      "type": "text"
+    },
+    {
+      "sender": "test",
+      "message": "testing testing .........",
+      "timestamp": 1746939871248,
+      "type": "text"
+    },
+    {
+      "sender": "test",
+      "message": "i am the test user 🔥🔥",
+      "timestamp": 1746939886442,
+      "type": "text"
     }
   ]
 }
